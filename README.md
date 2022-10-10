@@ -1,6 +1,6 @@
 # Payara Issue
 
-This repo was created as a reproducer for [this](https://github.com/eclipse-ee4j/eclipselink/issues/?) ticket.
+This repo was created as a reproducer for [this](https://github.com/eclipse-ee4j/eclipselink/issues/1728) ticket.
 
 # Description
 
